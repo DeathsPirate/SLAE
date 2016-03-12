@@ -1,3 +1,9 @@
+; Title: Custom Encoder (Rolling XOR) - Linux x86 
+; Author: DeathsPirate
+; Twitter: @DeathsPirate
+; Web: https://whitehatters.academy
+; StudentID: SLAE-734
+
 global _start
 
 section .text
